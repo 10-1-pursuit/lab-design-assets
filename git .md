@@ -31,13 +31,13 @@ Feel free to add, move, or remove the other components.
 
 Make sure you complete the following tasks
 
-- [ ] Choose a cohesive color theme and be sure to apply it.
-- [ ] Create a layout and apply it to your page.
-- [ ] Replace placeholder text with your own text.
-- [ ] Add at least one new font.
-- [ ] Change the background color in at least one place.
-- [ ] Change the font color in at least one place.
-- [ ] Change the default styling of link tags.
+- [* ] Choose a cohesive color theme and be sure to apply it.
+- [ *] Create a layout and apply it to your page.
+- [ *] Replace placeholder text with your own text.
+- [* ] Add at least one new font.
+- [* ] Change the background color in at least one place.
+- [ *] Change the font color in at least one place.
+- [ *] Change the default styling of link tags.
 - [ ] Change the default styling of the unordered lists.
 - [ ] Add at least one image.
 - [ ] Add at least one icon.
