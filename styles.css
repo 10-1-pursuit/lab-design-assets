@@ -1,0 +1,62 @@
+*{
+    padding:0;
+    margin:0;
+}
+
+h1,h2, h3{
+    text-align: center;
+}
+h1{
+  color:rgb(0, 0, 0)
+}
+img{
+    width: 50px;
+    height: 35px;
+    aspect-ratio: 3/2;
+}
+
+ul{
+    display:flex;
+    flex-direction: row;
+    justify-content:space-around ;
+    align-items: flex-start;
+    list-style-type: none;
+}
+
+body{
+  background-color: wheat;
+
+
+}
+
+#resume{
+    display:flex;
+   justify-content: center;
+}
+
+footer ul{
+    position:relative;
+    top: 266px;
+    padding: 10px;
+    background-image: url(./assets/1000_F_375500531_WjntKoDjk2R2H7g2uyzoadVs2FjxsDjE.jpg);
+    background-size:auto;
+    /* border:2px solid white; */
+}
+
+header{
+    background-image: url(./assets/altocumulus.jpg);
+    background-size:cover;
+    padding:20px;
+    opacity: .8;
+}
+
+footer img{
+    border: 2px solid black;
+    border-radius: 20px;
+   background-color: white;
+   padding: 9px;
+}
+
+aside{
+    padding: 50px;
+}
